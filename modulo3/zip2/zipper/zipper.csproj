@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <Description>Empacador de folders en ZIP</Description>
+    <Authors>Rodrigo Díaz Concha</Authors>
+    <Company>LinkedIn Learning</Company>
+    <Product>zip!</Product>
+    <PackageId>LiL.DotNetCoreEsencial.Zipper</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
