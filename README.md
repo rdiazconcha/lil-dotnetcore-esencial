@@ -2,4 +2,4 @@
 ## Curso de LinkedIn Learning en español
 https://www.linkedin.com/learning/dot-net-core-esencial/la-plataforma-de-desarrollo-dot-net-core
 
-Conoce las características fundamentales de .NET. Aprende los conceptos esenciales que hacen del framework .NET una plataforma de desarrollo estratégica y por qué permite un rápido desarrollo de aplicaciones. Entiende sus componentes, conoce sus herramientas y funcionalidades, y descubre su historia y su futuro inmediato.
+Domina .NET Core como plataforma de desarrollo. Aprende con este curso qué es, sus características y herramientas más importantes, su historia, entornos y lenguajes soportados, cuáles son los tipos de aplicaciones que puedes construir con esta plataforma, y echa un vistazo al futuro que le espera. Entiende por qué .NET Core es definitivamente una plataforma clave y por qué deberías dedicarle tiempo y esfuerzo.
